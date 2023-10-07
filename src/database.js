@@ -1,6 +1,6 @@
 export const websiteData = {
   categories: {
-    "buttons": [
+    buttons: [
       {
         name: "Flowchef",
         url: "https://www.flowchef.co/",
@@ -168,7 +168,7 @@ export const websiteData = {
         url: "https://shopify.supply/",
         image: "/images/buttons-28.webp",
         gif: "/images/buttons-28g.webp",
-        code:"https://codepen.io/kalisnetwork/pen/BaGebQK",
+        code: "https://codepen.io/kalisnetwork/pen/BaGebQK",
       },
       {
         name: "Lunchbox",
@@ -255,7 +255,7 @@ export const websiteData = {
       },
     ],
 
-    "cards": [
+    cards: [
       {
         name: "Quai Network",
         url: "https://qu.ai/#what-can-you-build",
@@ -414,7 +414,7 @@ export const websiteData = {
       },
     ],
 
-    "grids": [
+    grids: [
       {
         name: "'22 Companies.Tools",
         url: "https://recap.companies.tools/",
@@ -541,7 +541,7 @@ export const websiteData = {
       },
     ],
 
-    "headers": [
+    headers: [
       {
         name: "Patreon",
         url: "https://www.patreon.com/",
@@ -593,23 +593,23 @@ export const websiteData = {
         name: "Linear",
         url: "https://linear.app/",
         image: "/images/hover-effects-6.webp",
-        gif: "/images/hover-effects-6g.webp"
+        gif: "/images/hover-effects-6g.webp",
       },
       {
         name: "Unbench",
         url: "https://unbench.us/",
         image: "/images/hover-effects-7.webp",
-        gif: "/images/hover-effects-7g.webp"
+        gif: "/images/hover-effects-7g.webp",
       },
       {
         name: "Tigermilk",
         url: "https://tigermilkrestaurants.com/en/",
         image: "/images/hover-effects-8.webp",
-        gif: "/images/hover-effects-8g.webp"
+        gif: "/images/hover-effects-8g.webp",
       },
     ],
 
-    "icons": [
+    icons: [
       {
         name: "Stripe",
         url: "https://stripe.com/",
@@ -640,7 +640,7 @@ export const websiteData = {
         url: "https://www.teamgeek.io/",
         image: "/images/image-effects-2.webp",
         gif: "/images/image-effects-2g.webp ",
-        code: "https://codepen.io/Juxtopposed/pen/GRPRPyR"
+        code: "https://codepen.io/Juxtopposed/pen/GRPRPyR",
       },
       {
         name: "Romain Avalle",
@@ -653,14 +653,14 @@ export const websiteData = {
         url: "https://cuberto.com/",
         image: "/images/image-effects-4.webp",
         gif: "/images/image-effects-4g.webp ",
-        code: "https://codepen.io/Juxtopposed/pen/VwVoEBr"
+        code: "https://codepen.io/Juxtopposed/pen/VwVoEBr",
       },
       {
         name: "Zajno",
         url: "https://zajno.com/",
         image: "/images/image-effects-5.webp",
         gif: "/images/image-effects-5g.webp ",
-        code: "https://codepen.io/Juxtopposed/pen/MWZWpVQ"
+        code: "https://codepen.io/Juxtopposed/pen/MWZWpVQ",
       },
       {
         name: "Obys",
@@ -670,71 +670,7 @@ export const websiteData = {
       },
     ],
 
-    "interactive-elements": [
-      {
-        name: "Superlist",
-        url: "https://www.superlist.com/ ",
-        image: "/images/interactive-1.webp",
-        gif: "/images/interactive-1g.webp ",
-      },
-      {
-        name: "Thomas Bosc",
-        url: "https://thomasbosc.com/",
-        image: "/images/interactive-2.webp",
-        gif: "/images/interactive-2g.webp ",
-      },
-      {
-        name: "Advanced Team",
-        url: "https://advanced.team/",
-        image: "/images/interactive-3.webp",
-        gif: "/images/interactive-3g.webp ",
-      },
-      {
-        name: "Diagram",
-        url: "https://diagram.com/",
-        image: "/images/interactive-4.webp",
-        gif: "/images/interactive-4g.webp ",
-        code: "https://codepen.io/Hyperplexed/pen/wvQzbGz",
-      },
-      {
-        name: "Cuberto",
-        url: "https://cuberto.com/",
-        image: "/images/interactive-5.webp",
-        gif: "/images/interactive-5g.webp ",
-      },
-      {
-        name: "Webflow",
-        url: "https://webflow.com/",
-        image: "/images/interactive-6.webp",
-        gif: "/images/interactive-6g.webp ",
-      },
-      {
-        name: "Patreon",
-        url: "https://www.patreon.com/",
-        image: "/images/interactive-7.webp",
-        gif: "/images/interactive-7g.webp ",
-      },
-      {
-        name: "Method 1",
-        url: "https://method.au/",
-        image: "/images/interactive-8.webp",
-        gif: "/images/interactive-8g.webp",
-      },
-      {
-        name: "Method 2",
-        url: "https://method.au/",
-        image: "/images/interactive-9.webp",
-        gif: "/images/interactive-9g.webp",
-      },
-      {
-        name: "Best Things for Everything",
-        url: "https://shopping.google.com/m/bestthings/",
-        image: "/images/interactive-10.webp",
-        gif: "/images/interactive-10g.webp",
-      },
-    ],
-
-    "links": [
+    links: [
       {
         name: "Oaks Lane",
         url: "https://oakslane.ch/en",
@@ -794,39 +730,6 @@ export const websiteData = {
         url: "https://www.cuberto.com/",
         image: "/images/links-9.webp",
         gif: "/images/links-9g.webp",
-      },
-    ],
-
-    "loading-animation": [
-      {
-        name: "Quai Network",
-        url: "https://qu.ai/#articles",
-        image: "/images/loading-1.webp",
-        gif: "/images/loading-1g.webp ",
-      },
-      {
-        name: "Minh Pham",
-        url: "https://minhpham.design/",
-        image: "/images/loading-2.webp",
-        gif: "/images/loading-2g.webp ",
-      },
-      {
-        name: "Edwardh",
-        url: "https://www.edwardh.io/",
-        image: "/images/loading-3.webp",
-        gif: "/images/loading-3g.webp ",
-      },
-      {
-        name: "Unbench",
-        url: "https://unbench.us/",
-        image: "/images/loading-4.webp",
-        gif: "/images/loading-4g.webp ",
-      },
-      {
-        name: "Obys",
-        url: "https://obys.agency/",
-        image: "/images/loading-5.webp",
-        gif: "/images/loading-5g.webp ",
       },
     ],
 
@@ -921,7 +824,7 @@ export const websiteData = {
       },
     ],
 
-    "search": [
+    search: [
       {
         name: "Coffe & Aroma",
         url: "https://aroma-coffee-business-template.webflow.io/",
